@@ -1,0 +1,6 @@
+counter - Starts A Counter
+ls - Lists Every File In A Directory
+ipaddr - echos your ip address to the terminal
+ipgeo - geo locates the ip provided
+ping - uses paping to ping provided ip
+help - sends this message

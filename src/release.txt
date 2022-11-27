@@ -1,0 +1,4 @@
+Alpha V0.2
+Added Ipgeo loacation
+Added Paping Ping
+Added Ipaddr command
